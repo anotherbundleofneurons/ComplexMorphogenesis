@@ -11,3 +11,5 @@ It integrates three conformally-coupled complex Ginzburg–Landau fields (ψ₁,
 
 ### Plain-Language Explanation
 Multi-layered membrane (spring-mass mesh network) inflated, deflated, cut and sutured/glued depending on constraints set by a liquid crystal (active nematic) system that behaves like an elastic interwoven fiber bundle.
+
+### Discussion of Thread Mechanics as a TOE (coming soon...)
